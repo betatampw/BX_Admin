@@ -1,0 +1,17 @@
+{
+  "name": "bx-admin-app",
+  "version": "0.0.1",
+  "description": "bx admin",
+  "main": "web.js",
+  "dependencies": {
+    "express": "~3.3.4"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+}
